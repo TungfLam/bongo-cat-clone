@@ -35,7 +35,8 @@ class BongoCat:
 
         self.label = tk.Label(self.root, image=self.img_idle, bg="pink")
         self.label.pack()
-        self.root.geometry("+1400+976")
+        self.root.geometry("+100+100")
+        # self.root.geometry("+1400+976")
 
         self.root.update_idletasks()  # Đảm bảo ảnh đã load kích thước
 
