@@ -4,6 +4,8 @@ markdown
  
 # 🐾 BongoCat Desktop - by Tùng Lâm
 
+<img width="876" height="316" alt="image" src="https://github.com/user-attachments/assets/f52e9d92-559c-412e-b02a-dea2257bf61e" />
+
 Hiển thị chú mèo gõ phím dễ thương dưới góc màn hình Windows, tương tác khi nhấn phím hoặc click chuột, luôn nổi trên các cửa sổ khác. Có icon khay hệ thống (System Tray) → click chuột phải để **Thoát** chương trình.
 
 ---
