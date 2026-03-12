@@ -1,7 +1,4 @@
-Đây là toàn bộ nội dung file README.md dạng mã code, bạn chỉ cần copy và lưu thành README.md:
 
-markdown
- 
 # 🐾 BongoCat Desktop - by Tùng Lâm
 
 <img width="876" height="316" alt="image" src="https://github.com/user-attachments/assets/f52e9d92-559c-412e-b02a-dea2257bf61e" />
